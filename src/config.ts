@@ -57,6 +57,8 @@ export const SIDEBAR: Sidebar = {
 			{ text: 'HOF', link: 'en/higher-order-functions' },
 			{ text: 'Hoisting', link: 'en/hoisting' },
 			{ text: 'IIFE', link: 'en/iife' },
+			{ text: 'Memoization', link: 'en/memoization' },
+			{ text: 'Partial application', link: 'en/partial-application' },
 			{ text: 'Template literals', link: 'en/template-literals' },
 		],
 	},
@@ -70,6 +72,8 @@ export const SIDEBAR: Sidebar = {
 			{ text: 'HOF', link: 'es/higher-order-functions' },
 			{ text: 'Hoisting', link: 'es/hoisting' },
 			{ text: 'IIFE', link: 'es/iife' },
+			{ text: 'Memoization', link: 'es/memoization' },
+			{ text: 'Partial application', link: 'es/partial-application' },
 			{ text: 'Template literals', link: 'es/template-literals' },
 		],
 	}
