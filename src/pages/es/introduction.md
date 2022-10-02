@@ -1,6 +1,6 @@
 ---
-title: Introduction
-description: Docs intro
+title: Introducción
+description: Introducción a jspills.com
 layout: ../../layouts/MainLayout.astro
 ---
 

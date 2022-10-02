@@ -50,17 +50,27 @@ export const SIDEBAR: Sidebar = {
 	en: {
 		'Glossary': [
 			{ text: 'Async await', link: 'en/async-await' },
+			{ text: 'Block scope', link: 'en/block-scope' },
+			{ text: 'Closure', link: 'en/closure' },
 			{ text: 'Currying', link: 'en/currying' },
 			{ text: 'Fetch', link: 'en/fetch' },
+			{ text: 'HOF', link: 'en/higher-order-functions' },
 			{ text: 'Hoisting', link: 'en/hoisting' },
+			{ text: 'IIFE', link: 'en/iife' },
+			{ text: 'Template literals', link: 'en/template-literals' },
 		],
 	},
 	es: {
 		'Glosario': [
 			{ text: 'Async await', link: 'es/async-await' },
+			{ text: 'Block scope', link: 'es/block-scope' },
+			{ text: 'Closure', link: 'es/closure' },
 			{ text: 'Currying', link: 'es/currying' },
 			{ text: 'Fetch', link: 'es/fetch' },
+			{ text: 'HOF', link: 'es/higher-order-functions' },
 			{ text: 'Hoisting', link: 'es/hoisting' },
+			{ text: 'IIFE', link: 'es/iife' },
+			{ text: 'Template literals', link: 'es/template-literals' },
 		],
 	}
 };

@@ -29,9 +29,13 @@ Open http://localhost:3000 in your browser to see it in action.
 
 Pull requests are welcomed. To submit your favorite jspills, please create a markdown file, place it in the pages folder of your Astro project and submit a Pull Request.
 
+## Demo
+
+Demo available at https://jspills.netlify.app
+
 ## About
 
-This project is developed by _Rafael García_. I love building products, specially with the Astro framework.
+This project is developed by _Rafael García_. I love building web stuff, specially web components and projects with the fantabulous Astro framework.
 
 Be my friend on
 

@@ -81,4 +81,4 @@ fetch('flores.jpg').then(function(response) {
 
 ```
 
-_Source: [MDN Web Docs](https://developer.mozilla.org/es/docs/Web/API/Fetch_API/Using_Fetch)_
+_Source: [**MDN Web Docs**](https://developer.mozilla.org/es/docs/Web/API/Fetch_API/Using_Fetch)_

@@ -5,19 +5,19 @@
   "version": "1.0.0",
   "homepage": "https://jspills.com",
   "keywords": [
-      "JavaScript",
-      "snippets",
-      "js",
-      "javascript"
+    "JavaScript",
+    "snippets",
+    "js",
+    "javascript"
   ],
   "repository": {
     "type": "git",
     "url": "https://github.com/rafagarcia/jspills"
-},
-"bugs": {
+  },
+  "bugs": {
     "url": "https://github.com/rafagarcia/jspills/issues"
-},
-"license": "MIT",
+  },
+  "license": "MIT",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
@@ -27,17 +27,18 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@algolia/client-search": "^4.13.1",
+    "@astrojs/netlify": "^1.1.0",
+    "@astrojs/preact": "^1.1.1",
+    "@astrojs/react": "^1.1.4",
+    "@docsearch/css": "^3.1.0",
+    "@docsearch/react": "^3.1.0",
+    "@types/node": "^18.0.0",
+    "@types/react": "^17.0.45",
+    "@types/react-dom": "^18.0.0",
     "astro": "^1.4.2",
     "preact": "^10.7.3",
     "react": "^18.1.0",
-    "react-dom": "^18.1.0",
-    "@astrojs/react": "^1.1.4",
-    "@astrojs/preact": "^1.1.1",
-    "@algolia/client-search": "^4.13.1",
-    "@docsearch/css": "^3.1.0",
-    "@docsearch/react": "^3.1.0",
-    "@types/react": "^17.0.45",
-    "@types/node": "^18.0.0",
-    "@types/react-dom": "^18.0.0"
+    "react-dom": "^18.1.0"
   }
 }

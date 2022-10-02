@@ -1,6 +1,6 @@
 ---
 title: Currying
-description: Summarized definition of Hoisting
+description: Summarized definition of Currying
 layout: ../../layouts/MainLayout.astro
 ---
 

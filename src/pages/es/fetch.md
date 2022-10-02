@@ -1,6 +1,6 @@
 ---
 title: Fetch
-description: Summarized definition of Fetch
+description: Definición resumida de Fetch
 layout: ../../layouts/MainLayout.astro
 ---
 
@@ -82,4 +82,4 @@ fetch('flores.jpg').then(function(response) {
 
 ```
 
-_Fuente: [MDN Web Docs](https://developer.mozilla.org/es/docs/Web/API/Fetch_API/Using_Fetch)_
+_Fuente: [**MDN Web Docs**](https://developer.mozilla.org/es/docs/Web/API/Fetch_API/Using_Fetch)_

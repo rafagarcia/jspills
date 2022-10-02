@@ -1,6 +1,6 @@
 ---
 title: Currying
-description: Summarized definition of Hoisting
+description: Definición resumida de Currying
 layout: ../../layouts/MainLayout.astro
 ---
 
@@ -55,6 +55,6 @@ Como vemos, esta es una función con todos sus argumentos. Vamos a crear una ver
   console.log(sum(1)(2)(3)) //6
 ```
 
-_Source: [**Currying in JavaScript - Medium post**](https://medium.com/swlh/currying-in-javascript-bbe4ddedf86b)_
+_Fuente: [**Currying in JavaScript - Medium post**](https://medium.com/swlh/currying-in-javascript-bbe4ddedf86b)_
 
 

@@ -8,8 +8,6 @@ An async function is a function declared with the async keyword, and the await k
 
 Async functions may also be defined as expressions.
 
-_Source: [**MDN Web docs**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)_
-
 ```js
 function resolveAfter2Seconds() {
   return new Promise(resolve => {
@@ -28,3 +26,5 @@ async function asyncCall() {
 
 asyncCall();
 ```
+
+_Source: [**MDN Web docs**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)_

@@ -40,4 +40,4 @@ Therefore, we could **NOT** write this:
   var myNumber = 4;
 ```
 
-_Source: [¿Qué es el hoisting? - Medium post](https://anamartinezaguilar.medium.com/qu%C3%A9-es-el-hoisting-327870f67b36)_
+_Source: [**¿Qué es el hoisting? - Medium post**](https://anamartinezaguilar.medium.com/qu%C3%A9-es-el-hoisting-327870f67b36)_

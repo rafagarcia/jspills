@@ -1,6 +1,6 @@
 ---
 title: Hoisting
-description: Summarized definition of Hoisting
+description: Definición resumida de Hoisting
 layout: ../../layouts/MainLayout.astro
 ---
 
@@ -40,4 +40,4 @@ Por lo tanto, **NO** podríamos escribir esto:
   var myNumber = 4;
 ```
 
-_Fuente: [¿Qué es el hoisting? - Medium post](https://anamartinezaguilar.medium.com/qu%C3%A9-es-el-hoisting-327870f67b36)_
+_Fuente: [**¿Qué es el hoisting? - Medium post**](https://anamartinezaguilar.medium.com/qu%C3%A9-es-el-hoisting-327870f67b36)_
