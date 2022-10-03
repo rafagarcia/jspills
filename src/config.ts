@@ -49,9 +49,11 @@ export type Sidebar = Record<
 export const SIDEBAR: Sidebar = {
 	en: {
 		'Glossary': [
-			{ text: 'Async await', link: 'en/async-await' },
+			{ text: 'Apply, bind and call', link: 'en/apply-bind-call' },
+			{ text: 'Async-await', link: 'en/async-await' },
 			{ text: 'Block scope', link: 'en/block-scope' },
 			{ text: 'Closure', link: 'en/closure' },
+			{ text: 'Constructor', link: 'en/constructors' },
 			{ text: 'Currying', link: 'en/currying' },
 			{ text: 'Fetch', link: 'en/fetch' },
 			{ text: 'HOF', link: 'en/higher-order-functions' },
@@ -64,9 +66,11 @@ export const SIDEBAR: Sidebar = {
 	},
 	es: {
 		'Glosario': [
-			{ text: 'Async await', link: 'es/async-await' },
+			{ text: 'Apply, bind y call', link: 'es/apply-bind-call' },
+			{ text: 'Async-await', link: 'es/async-await' },
 			{ text: 'Block scope', link: 'es/block-scope' },
 			{ text: 'Closure', link: 'es/closure' },
+			{ text: 'Constructor', link: 'es/constructors' },
 			{ text: 'Currying', link: 'es/currying' },
 			{ text: 'Fetch', link: 'es/fetch' },
 			{ text: 'HOF', link: 'es/higher-order-functions' },

@@ -4,7 +4,7 @@ description: Summarized definition of block scope of var, let and const
 layout: ../../layouts/MainLayout.astro
 ---
 
-Block scope controls the visibility and lifetime of variables and parameters. Variables declared using var do not have block scope, while variables declared using let and const have block scope. Anything within curly braces ({}) is a block.A variable declared in a block with let or const is only available for use withing this block.
+Block scope controls the visibility and lifetime of variables and parameters. Variables declared using var do not have block scope, while variables declared using let and const have block scope. Anything within curly braces ({}) is a block. A variable declared in a block with let or const is only available for use withing this block.
 
 ```js
 // no block scope with var

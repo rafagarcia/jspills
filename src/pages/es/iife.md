@@ -4,7 +4,7 @@ description: Definición resumida de IIFE
 layout: ../../layouts/MainLayout.astro
 ---
 
-Las expresiones de función ejecutadas inmediatamente (IIFE por su sigla en inglés) son funciones que se ejecutan tan pronto como se definen. Es un patrón de diseño también conocido cómo **función autoejecutable** y se compone de dos partes:
+Las expresiones de función invocadas inmediatamente (IIFE por su sigla en inglés) son funciones que se ejecutan tan pronto como se definen. Es un patrón de diseño también conocido cómo **función autoejecutable** y se compone de dos partes:
 
 1. La primera parte es la función anónima con alcance léxico encerrado por el operador de agrupación () que impide acceder a variables fuera del IIFE o contaminar el scope global.
 2. La segunda parte crea la expresión de función cuya ejecución es inmediata (), siendo interpretado directamente en el motor de JavaScript.

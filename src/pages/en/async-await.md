@@ -1,6 +1,6 @@
 ---
-title: Async await
-description: Summarized definition of Async await
+title: Async-await
+description: Summarized definition of async-await
 layout: ../../layouts/MainLayout.astro
 ---
 

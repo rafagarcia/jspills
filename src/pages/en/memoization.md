@@ -6,7 +6,7 @@ layout: ../../layouts/MainLayout.astro
 
 **Memoization** is an optimization technique that increases the performance of a function by remembering its previously computed results. As javascript objets behave like associative arrays, they can act as caches. Each time a memoized function is called, its parameters are used to index the cache. If the data is present, then it can be returned without executing the entire function. However, if the data is not cached, then the function is executed and the result is added to the cache.
 
-The memoized function must be pure. A **pure function** will return the same output for a given input, no matter how many times beaing called. This makes the cache work as expected. The value of a pure function is not recalculated.
+The memoized function must be pure. A **pure function** will return the same output for a given input, no matter how many times being called. This makes the cache work as expected. The value of a pure function is not recalculated.
 
 ```js
 // memoized function to add something
