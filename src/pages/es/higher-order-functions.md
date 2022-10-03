@@ -4,8 +4,6 @@ description: Definición resumida de Higher order functions (HOF)
 layout: ../../layouts/MainLayout.astro
 ---
 
-Functions that take and/or return other functions are called **Higher order functions**.
-
 Las funciones que toman y/o devuelven otras funciones se denominan **Higher order functions (funciones de orden superior)**.
 
 En el siguiente ejemplo, pasamos una función anónima a la función MyFunc, que luego devolvemos inmediatamente desde la función myFunc.

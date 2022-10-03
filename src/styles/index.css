@@ -99,7 +99,7 @@ p {
 
 p,
 .content ul {
-	color: var(--theme-text-light);
+	color: var(--theme-text);
 }
 
 small,
@@ -108,7 +108,7 @@ small,
 }
 
 a {
-	color: var(--theme-text-accent);
+	color: var(--theme-text-accent-dark);
 	font-weight: 400;
 	text-underline-offset: 0.08em;
 	align-items: center;
